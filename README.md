@@ -20,9 +20,12 @@ This website is my digital portfolio—a place for potential employers, clients,
 I'm a UI/UX Designer who enjoys creating clear, intuitive, and visually engaging digital experiences. My main focus is UI design for mobile applications, SaaS products, and B2B systems. Outside of product design, I enjoy portrait photography, visual exploration, and continuously learning new skills.
 
 📬 Contact
-Portfolio: Add your published portfolio URL here
+Portfolio: 
+
 Email: memongski@outlook.com
+
 LinkedIn: linkedin.com/in/edmund-diaz-ii
+
 GitHub: github.com/ilyatan
 
 ---
